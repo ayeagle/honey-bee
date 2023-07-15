@@ -30,7 +30,9 @@ const randNames = [
     "Cabinet",
     "Curtain",
     "Shelf",
-    "Picture Frame"
+    "Picture Frame",
+    'lkjlkfjsjk',
+    'sdfksdfkjfdskjfskj'
   ];
 
 function rand(baseline: number){
